@@ -1,1 +1,5 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Kentucky](/images/kentuckyFog.jpg)
+Format: ![KentuckyRoad](/images/kentuckyRiver.jpg)]
+
+
+
