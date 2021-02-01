@@ -1,5 +1,5 @@
-![Kentucky](/images/kentuckyFog.jpg)
-Format: ![KentuckyRoad](/images/kentuckyRiver.jpg)]
+![KansasCity](https://photos.google.com/photo/AF1QipNMakYgIzanUdewSfzPcEz0etMFkaiz0yoNERQ2)
+
 
 
 
